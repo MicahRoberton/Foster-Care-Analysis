@@ -1,5 +1,8 @@
 # Project Brainstorm: Human Children
 
+The html site can be accessed at https://micahroberton.github.io/Foster-Care-Analysis/index
+The R shiny app can be accessed by downloading this repository onto your own computer and running the application there (will require rStudio).
+
 **Domain of Interest**
 
 Children are a large portion of our world population. Our interest and field of domain is focused on Human Children. Within this domain, there are a variety of measurements that leaves us open space to do research.
